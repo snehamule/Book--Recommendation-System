@@ -2,22 +2,22 @@
 
 This is hybrid Recommender system using Collaborative Filtering And Popularity-based recommender to recommend books.
 
-## Technology/libraries used: 
+## Technology/libraries used: <br />
 Python, Scikit learn, Panda, Numpy
 
-## Setup required:
-python version: 3 or greater
+## Setup required:<br />
+python version: 3 or greater<br />
 Libraries : ScikitLearn, Panda,Numpy
 
 
-## Install python 
-
+## Install python <br />
 If python is not installed then need to install python:<br />
 **For  osx operating system (mac)**<br />
 	python get-pip.py 
 
 **For windows operating system**<br />
-	refer steps from [windows python installation steps]  (https://docs.python.org/3/using/windows.html).
+	refer steps from [windows python installation steps](https://docs.python.org/3/using/windows.html).
+	
 
 ## Check python version:
 python -version
@@ -40,7 +40,7 @@ Download Book-Crossing Dataset  from [Book-Crossing Dataset](http://www2.informa
 
 ## Run program : <br />
 1. Download code from git  using  git clone .
-2. Place downloaded files in the same folder 
+2. Place downloaded dataset files in the same folder
 3. For  Process Data  run command 
 ```
 	python process_data.py
