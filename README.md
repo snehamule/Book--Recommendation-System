@@ -32,9 +32,9 @@ Install  Panada : pip install pandas<br />
 Install  Scikitlearn: pip install scipy, scikit-learn<br />
 
 **For windows operating system**<br />
-*Install numpy : pip install numpy<br />
-*Install pandas : python -m pip install pandas<br />
-*Install  Scikitlearn: pip install -U scikit-learn<br />
+* Install numpy : pip install numpy<br />
+* Install pandas : python -m pip install pandas<br />
+* Install  Scikitlearn: pip install -U scikit-learn<br />
 
 
 ## Dataset Download :<br />
