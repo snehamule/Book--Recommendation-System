@@ -2,12 +2,12 @@ import pandas as pd
 import csv
 
 #This method process data
-def processData(book_ratings,book_info):
+def processData():
     # read BX-Book-Ratings.csv,
-    book_rating_df=pd.read_csv(Book-Ratings,sep=',',low_memory=False, encoding = "ISO-8859-1")
+    book_rating_df=pd.read_csv('BX-Book-Ratings.csv',sep=',',low_memory=False, encoding = "ISO-8859-1")
 
     # read BX-Book-Ratings.csv and clean data
-    books_info_df = pd.read_csv(book_info, sep=',', low_memory=False, encoding="ISO-8859-1", skipinitialspace=True,quoting=csv.QUOTE_ALL)
+    books_info_df = pd.read_csv('BX-Books.csv', sep=',', low_memory=False, encoding="ISO-8859-1", skipinitialspace=True,quoting=csv.QUOTE_ALL)
     books_info_df=books_info_df.drop('"Image-URL-S"', axis=1)
     books_info_df=books_info_df.drop('"Image-URL-M"', axis=1)
     books_info_df=books_info_df.drop('"Image-URL-L"', axis=1)
