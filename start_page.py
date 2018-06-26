@@ -1,5 +1,9 @@
 from Collabrartive_Filter import collabrative_filter
 from Popularity_based_recommendation_system import popular_books
+from Process import processData
+
+def load_files(Book-Ratings='BX-Book-Ratings.csv',Books = 'BX-Books.csv')
+    processData(book_ratings,book_info)
 
 # This is Entry Page
 user_enter=int(input("Please Enter  1 for Popular Books,  2 Similar Specific Book,  any other key to Exit \n"))
