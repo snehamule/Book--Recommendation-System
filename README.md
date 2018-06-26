@@ -1,4 +1,4 @@
-# Book_Recommendation_system App
+# Book Recommendation system App
 
 This is hybrid Recommender system using Collaborative Filtering And Popularity-based recommender to recommend books.
 
@@ -24,14 +24,14 @@ python -version
 
 
 ## Install Libraries   
-For  osx operating system (mac)
+**For  osx operating system (mac)**
 Install pip: python get-pip.py 
 Install  python : python3.6 -m pip install [Package_to_install]
 Install Numpy : pip install numpy
 Install  Panada : pip install pandas
 Install  Scikitlearn: pip install scipy, scikit-learn
 
-For windows operating system
+**For windows operating system**
 Install python : refer https://docs.python.org/3/using/windows.html
 Install numpy : pip install numpy
 Install pandas : python -m pip install pandas
@@ -39,11 +39,11 @@ Install pandas : python -m pip install pandas
 
 ## Dataset Download :
 This recommendation system use  Book-Crossing Dataset.
-Download Book-Crossing Dataset  from  http://www2.informatik.uni-freiburg.de/~cziegler/BX/
+Download Book-Crossing Dataset  from [Book-Cross-Dataser](http://www2.informatik.uni-freiburg.de/~cziegler/BX/).  
 
 Run program : 
 1. Download code from git  using  git clone .
-2.  Place downloaded files in the same folder 
+2. Place downloaded files in the same folder 
 3. For  Process Data  run command 
 ```
 	python process_data.py
