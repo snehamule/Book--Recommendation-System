@@ -2,10 +2,10 @@
 
 This is hybrid Recommender system using Collaborative Filtering And Popularity-based recommender to recommend books.
 
-#Technology/libraries used: 
+# Technology/libraries used: 
 Python, Scikit learn, Panda, Numpy
 
-#Setup required:
+# Setup required:
 python version: 2.7.X or greater
 Libraries : ScikitLearn, Panda,Numpy
 
