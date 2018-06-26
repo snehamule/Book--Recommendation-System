@@ -12,6 +12,7 @@ Libraries : ScikitLearn, Panda,Numpy
 
 ## Install python <br />
 If python is not installed then need to install python:<br />
+<br />
 **For  osx operating system (mac)**<br />
 	python get-pip.py 
 
@@ -23,15 +24,17 @@ If python is not installed then need to install python:<br />
 python -version
 
 
-## Install Libraries<br />   
+## Install Libraries<br /> 
+
 **For  osx operating system (mac)**<br />
 Install Numpy : pip install numpy<br />
 Install  Panada : pip install pandas<br />
 Install  Scikitlearn: pip install scipy, scikit-learn<br />
 
 **For windows operating system**<br />
-Install numpy : pip install numpy<br />
-Install pandas : python -m pip install pandas<br />
+*Install numpy : pip install numpy<br />
+*Install pandas : python -m pip install pandas<br />
+*Install  Scikitlearn: pip install -U scikit-learn<br />
 
 
 ## Dataset Download :<br />
