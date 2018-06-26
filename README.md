@@ -32,14 +32,14 @@ Install  Panada : pip install pandas
 Install  Scikitlearn: pip install scipy, scikit-learn
 
 **For windows operating system**
-Install python : refer https://docs.python.org/3/using/windows.html
+Install python : refer [windows python installation steps] (https://docs.python.org/3/using/windows.html).
 Install numpy : pip install numpy
 Install pandas : python -m pip install pandas
 
 
 ## Dataset Download :
 This recommendation system use  Book-Crossing Dataset.
-Download Book-Crossing Dataset  from [Book-Cross-Dataser](http://www2.informatik.uni-freiburg.de/~cziegler/BX/).  
+Download Book-Crossing Dataset  from [Book-Crossing Dataset](http://www2.informatik.uni-freiburg.de/~cziegler/BX/).  
 
 Run program : 
 1. Download code from git  using  git clone .
