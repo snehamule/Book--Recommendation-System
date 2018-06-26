@@ -44,7 +44,7 @@ Download Book-Crossing Dataset  from [Book-Crossing Dataset](http://www2.informa
 ## Run program : <br />
 1. Download code from git  using  git clone .
 2. Place downloaded dataset files in the same folder
-3. For  Process Data  run command 
+3. For Process the Data run command 
 ```
 	python process_data.py
 ```	
