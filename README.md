@@ -27,9 +27,9 @@ python -version
 ## Install Libraries<br /> 
 
 **For  osx operating system (mac)**<br />
-Install Numpy : pip install numpy<br />
-Install  Panada : pip install pandas<br />
-Install  Scikitlearn: pip install scipy, scikit-learn<br />
+* Install Numpy : pip install numpy<br />
+* Install  Panada : pip install pandas<br />
+* Install  Scikitlearn: pip install scipy, scikit-learn<br />
 
 **For windows operating system**<br />
 * Install numpy : pip install numpy<br />
