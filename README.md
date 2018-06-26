@@ -6,7 +6,7 @@ This is hybrid Recommender system using Collaborative Filtering And Popularity-b
 Python, Scikit learn, Panda, Numpy
 
 ## Setup required:
-python version: 2.7.X or greater
+python version: 3 or greater
 Libraries : ScikitLearn, Panda,Numpy
 
 
@@ -45,9 +45,13 @@ Run program :
 1. Download code from git  using  git clone .
 2.  Place downloaded files in the same folder 
 3. For  Process Data  run command 
+```
 	python process_data.py
+```	
 4. To start a recommendation system run command 
+```
 	python start_page.py
+```
 5. Enter option 1 to display popular book 2 to book similar to your choice
 6. if user select option one then popular books will display
 7. if user select option 2, app ask to enter book name .
