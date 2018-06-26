@@ -13,10 +13,10 @@ Libraries : ScikitLearn, Panda,Numpy
 ## Install python 
 
 If python is not installed then need to install python:
-**For  osx operating system (mac)**
+**For  osx operating system (mac)**<br />
 	python get-pip.py 
 
-**For windows operating system**
+**For windows operating system**<br />
 	refer steps from [windows python installation steps]  (https://docs.python.org/3/using/windows.html).
 
 ## Check python version:
@@ -24,12 +24,12 @@ python -version
 
 
 ## Install Libraries   
-**For  osx operating system (mac)**
+**For  osx operating system (mac)**<br />
 Install Numpy : pip install numpy
 Install  Panada : pip install pandas
 Install  Scikitlearn: pip install scipy, scikit-learn
 
-**For windows operating system**
+**For windows operating system**<br />
 Install numpy : pip install numpy
 Install pandas : python -m pip install pandas
 
@@ -38,7 +38,7 @@ Install pandas : python -m pip install pandas
 This recommendation system use  Book-Crossing Dataset.
 Download Book-Crossing Dataset  from [Book-Crossing Dataset](http://www2.informatik.uni-freiburg.de/~cziegler/BX/).  
 
-Run program : 
+## Run program : 
 1. Download code from git  using  git clone .
 2. Place downloaded files in the same folder 
 3. For  Process Data  run command 
