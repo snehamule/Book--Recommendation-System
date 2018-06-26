@@ -12,12 +12,12 @@ Libraries : ScikitLearn, Panda,Numpy
 
 # Install python 
 
-# If python is not installed then need to install python:
-For  osx operating system (mac) 
-	python get-pip.py 
+If python is not installed then need to install python:
+	For  osx operating system (mac) 
+		python get-pip.py 
 
-For windows operating system 
-	refer steps from  https://docs.python.org/3/using/windows.html
+	For windows operating system 
+		refer steps from  https://docs.python.org/3/using/windows.html
 
 #Check python version:
 python -version
