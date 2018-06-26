@@ -17,7 +17,7 @@ For  osx operating system (mac)
 	python get-pip.py 
 
 For windows operating system 
-	refer steps from  https://docs.python.org/3/using/windows.html
+	refer steps from[windows python installation steps]  https://docs.python.org/3/using/windows.html
 
 ## Check python version:
 python -version
@@ -25,14 +25,11 @@ python -version
 
 ## Install Libraries   
 **For  osx operating system (mac)**
-Install pip: python get-pip.py 
-Install  python : python3.6 -m pip install [Package_to_install]
 Install Numpy : pip install numpy
 Install  Panada : pip install pandas
 Install  Scikitlearn: pip install scipy, scikit-learn
 
 **For windows operating system**
-Install python : refer [windows python installation steps] (https://docs.python.org/3/using/windows.html).
 Install numpy : pip install numpy
 Install pandas : python -m pip install pandas
 
