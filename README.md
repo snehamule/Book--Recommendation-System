@@ -2,15 +2,15 @@
 
 This is hybrid Recommender system using Collaborative Filtering And Popularity-based recommender to recommend books.
 
-# Technology/libraries used: 
+## Technology/libraries used: 
 Python, Scikit learn, Panda, Numpy
 
-# Setup required:
+## Setup required:
 python version: 2.7.X or greater
 Libraries : ScikitLearn, Panda,Numpy
 
 
-# Install python 
+## Install python 
 
 If python is not installed then need to install python:
 For  osx operating system (mac) 
@@ -19,11 +19,11 @@ For  osx operating system (mac)
 For windows operating system 
 	refer steps from  https://docs.python.org/3/using/windows.html
 
-# Check python version:
+## Check python version:
 python -version
 
 
-# Install Libraries   
+## Install Libraries   
 For  osx operating system (mac)
 Install pip: python get-pip.py 
 Install  python : python3.6 -m pip install [Package_to_install]
@@ -37,7 +37,7 @@ Install numpy : pip install numpy
 Install pandas : python -m pip install pandas
 
 
-# Dataset Download :
+## Dataset Download :
 This recommendation system use  Book-Crossing Dataset.
 Download Book-Crossing Dataset  from  http://www2.informatik.uni-freiburg.de/~cziegler/BX/
 
