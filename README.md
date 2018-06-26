@@ -13,13 +13,13 @@ Libraries : ScikitLearn, Panda,Numpy
 # Install python 
 
 If python is not installed then need to install python:
-	For  osx operating system (mac) 
-		python get-pip.py 
+For  osx operating system (mac) 
+	python get-pip.py 
 
-	For windows operating system 
-		refer steps from  https://docs.python.org/3/using/windows.html
+For windows operating system 
+	refer steps from  https://docs.python.org/3/using/windows.html
 
-#Check python version:
+# Check python version:
 python -version
 
 
@@ -48,7 +48,7 @@ Run program :
 	python process_data.py
 4. To start a recommendation system run command 
 	python start_page.py
-5. Enter option 1 to display popular book 2 to book similar to your     	choice
+5. Enter option 1 to display popular book 2 to book similar to your choice
 6. if user select option one then popular books will display
 7. if user select option 2, app ask to enter book name .
 8. App will recommend some books but it is optional to user to choose books from the suggested book. Once user enter book app will display recommended books
