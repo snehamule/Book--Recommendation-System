@@ -52,5 +52,7 @@ Download Book-Crossing Dataset  from [Adult UCI dataset](https://archive.ics.uci
 ```
 	python start_page.py
 ```
-
-
+5. Application will prompt  to ask user to press 1 if user intrested in popular book and 2 to get recommendation for books of 	 user intrest.
+6. If user enter 1 then application will display popular books
+7. If user enter 2 then application ask user to enter intrested book as well as application will suggest some books. It is   	optional to user to select from suggested book. Once user enter book which he/she is  intrested , then application will	    	recommend similar 10 book which user might be intrested.
+8. If appplication does not find so much similar book (Selected similarity using pearson correlation), then application will 	suggest 70 percentage (7 books) similar books and 30 % percentage (3 books) popular books
