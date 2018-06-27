@@ -39,21 +39,18 @@ python -version
 
 ## Dataset Download :<br />
 This recommendation system use  Book-Crossing Dataset.
-Download Book-Crossing Dataset  from [Book-Crossing Dataset](http://www2.informatik.uni-freiburg.de/~cziegler/BX/).  
+Download Book-Crossing Dataset  from [Adult UCI dataset](https://archive.ics.uci.edu/ml/datasets/adult).  
 
 ## Run program : <br />
 1. Download code from git  using  git clone .
 2. Place downloaded dataset files in the same folder
 3. For Process the Data run command 
 ```
-	python process_data.py
+	python process.py
 ```	
 4. To start a recommendation system run command 
 ```
 	python start_page.py
 ```
-5. Enter option 1 to display popular book 2 to book similar to your choice
-6. If user select option one then popular books will display
-7. If user select option 2, app ask to enter book name .
-8. App will recommend some books but it is optional to user to choose books from the suggested book. Once user enter book app    will display recommended books
+
 
