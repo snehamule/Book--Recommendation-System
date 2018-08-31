@@ -16,7 +16,7 @@ if 1 == user_enter:
 elif user_enter==2 :
     popular_books_list=popular_books()
     #Black: print("\033[2;37;40m Underlined text\033[0;37;40m \n")
-    print("\033[1;31;40m Ten Popular Books : \033[0;37;40m \n")
+    print("Ten Popular Books :\n")
     for i in popular_books_list:
         print(i.replace('"', ""))
 else:
